@@ -1,0 +1,93 @@
+########################################
+# Program: needle
+# Rundate: Thu 17 Sep 2026 10:35:03
+# Commandline: needle
+#    -asequence /corral4/main/objects/4/3/0/dataset_43060c84-6e80-41f8-a554-4162b62a8a34.dat
+#    -bsequence /corral4/main/objects/0/f/4/dataset_0f4d5c1d-9bc5-4385-8925-a59cd3a991dd.dat
+#    -outfile /corral4/main/jobs/079/819/79819507/outputs/dataset_cf28f21c-cac5-4de5-a5f3-10da6cebbc75.dat
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -brief yes
+#    -aformat3 srspair
+#    -auto
+# Align_format: srspair
+# Report_file: /corral4/main/jobs/079/819/79819507/outputs/dataset_cf28f21c-cac5-4de5-a5f3-10da6cebbc75.dat
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 92-2122_1
+# 2: 92-2122_1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 677
+# Identity:     676/677 (99.9%)
+# Similarity:   676/677 (99.9%)
+# Gaps:           0/677 ( 0.0%)
+# Score: 3525.0
+# 
+#
+#=======================================
+
+92-2122_1          1 MAAASSPPRAERKRWGWGRLPGARRGSAGLAKKCPFSLELAEGGPAGGAL     50
+                     |.||||||||||||||||||||||||||||||||||||||||||||||||
+92-2122_1          1 MGAASSPPRAERKRWGWGRLPGARRGSAGLAKKCPFSLELAEGGPAGGAL     50
+
+92-2122_1         51 YAPIAPGAPGPAPPASPAAPAAPPVASDLGPRPPVSLDPRVSIYSTRRPV    100
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+92-2122_1         51 YAPIAPGAPGPAPPASPAAPAAPPVASDLGPRPPVSLDPRVSIYSTRRPV    100
+
+92-2122_1        101 LARTHVQGRVYNFLERPTGWKCFVYHFAVFLIVLVCLIFSVLSTIEQYAA    150
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+92-2122_1        101 LARTHVQGRVYNFLERPTGWKCFVYHFAVFLIVLVCLIFSVLSTIEQYAA    150
+
+92-2122_1        151 LATGTLFWMEIVLVVFFGTEYVVRLWSAGCRSKYVGLWGRLRFARKPISI    200
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+92-2122_1        151 LATGTLFWMEIVLVVFFGTEYVVRLWSAGCRSKYVGLWGRLRFARKPISI    200
+
+92-2122_1        201 IDLIVVVASMVVLCVGSKGQVFATSAIRGIRFLQILRMLHVDRQGGTWRL    250
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+92-2122_1        201 IDLIVVVASMVVLCVGSKGQVFATSAIRGIRFLQILRMLHVDRQGGTWRL    250
+
+92-2122_1        251 LGSVVFIHRQELITTLYIGFLGLIFSSYFVYLAEKDAVNESGRVEFGSYA    300
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+92-2122_1        251 LGSVVFIHRQELITTLYIGFLGLIFSSYFVYLAEKDAVNESGRVEFGSYA    300
+
+92-2122_1        301 DALWWGVVTVTTIGYGDKVPQTWVGKTIASCFSVFAISFFALPAGILGSG    350
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+92-2122_1        301 DALWWGVVTVTTIGYGDKVPQTWVGKTIASCFSVFAISFFALPAGILGSG    350
+
+92-2122_1        351 FALKVQQKQRQKHFNRQIPAAASLIQTAWRCYAAENPDSSTWKIYIRKAP    400
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+92-2122_1        351 FALKVQQKQRQKHFNRQIPAAASLIQTAWRCYAAENPDSSTWKIYIRKAP    400
+
+92-2122_1        401 RSHTLLSPSPKPKKSVVVKKKKFKLDKDNGVTPGEKMLTVPHITCDPPEE    450
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+92-2122_1        401 RSHTLLSPSPKPKKSVVVKKKKFKLDKDNGVTPGEKMLTVPHITCDPPEE    450
+
+92-2122_1        451 RRLDHFSVDGYDSSVRKSPTLLEVSMPHFMRTNSFAEDLDLEGETLLTPI    500
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+92-2122_1        451 RRLDHFSVDGYDSSVRKSPTLLEVSMPHFMRTNSFAEDLDLEGETLLTPI    500
+
+92-2122_1        501 THISQLREHHRATIKVIRRMQYFVAKKKFQQARKPYDVRDVIEQYSQGHL    550
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+92-2122_1        501 THISQLREHHRATIKVIRRMQYFVAKKKFQQARKPYDVRDVIEQYSQGHL    550
+
+92-2122_1        551 NLMVRIKELQRRLDQSIGKPSLFISVSEKSKDRGSNTIGARLNRVEDKVT    600
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+92-2122_1        551 NLMVRIKELQRRLDQSIGKPSLFISVSEKSKDRGSNTIGARLNRVEDKVT    600
+
+92-2122_1        601 QLDQRLALITDMLHQLLSLHGGSTPGSGGPPREGGAHITQPCGSGGSVDP    650
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+92-2122_1        601 QLDQRLALITDMLHQLLSLHGGSTPGSGGPPREGGAHITQPCGSGGSVDP    650
+
+92-2122_1        651 ELFLPSNTLPTYEQLTVPRRGPDEGS*    677
+                     |||||||||||||||||||||||||| 
+92-2122_1        651 ELFLPSNTLPTYEQLTVPRRGPDEGS*    677
+
+
+#---------------------------------------
+#---------------------------------------
