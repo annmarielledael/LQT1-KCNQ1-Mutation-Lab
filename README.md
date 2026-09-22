@@ -2,7 +2,7 @@
 
 ## Project Information
 
-- **Student:** Ann Marielle Dael
+- **Student:** Ann Marielle U. Dael
 - **Disease/Phenotype:** Long QT Syndrome Type 1 (LQT1)
 - **Gene:** KCNQ1
 - **Reference Transcript:** NM_000218.3
